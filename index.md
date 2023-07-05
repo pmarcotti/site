@@ -1,4 +1,11 @@
+# Site do Paulo Marcotti criado direto no github site
 ## Welcome to GitHub Pages
+
+Estou verificando as possibilidades na criação de um site pelo github, utilizando arquivos markdown
+
+Este é o padrão de documentação utilizado pelos desenvolvedores, utilizar o github com arquivos com a extensão .md de markdown
+
+Utilize também o site markdowntopdf para gerar um .pdf a partir de um arquivo .md
 
 You can use the [editor on GitHub](https://github.com/pmarcotti/site/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
