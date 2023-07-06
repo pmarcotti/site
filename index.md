@@ -71,6 +71,9 @@ Tendo problemas com GitHub Pages? Confira nossa [documentation](https://docs.git
 <h4>Linguagens</h4>
 
 <div style="display: inline_block">
+  <a href="https://wiki.python.org.br/PythonBrasil">
+  <img align="center" alt="Lucas-Python" height="25" width="80" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img align="center" alt="Gui-JS" height="25" width="80" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   </a>
@@ -79,9 +82,6 @@ Tendo problemas com GitHub Pages? Confira nossa [documentation](https://docs.git
   </a>
   <a href="https://www.ibm.com/docs/pt/i/7.2?topic=languages-c-c">
   <img align="center" alt="Gui-C" height="25" width="80" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  </a>
-  <a href="https://wiki.python.org.br/PythonBrasil">
-  <img align="center" alt="Lucas-Python" height="25" width="80" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   </a>
 <div/>
   
