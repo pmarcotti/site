@@ -56,8 +56,6 @@ Tendo problemas com GitHub Pages? Confira nossa [documentation](https://docs.git
   &middot; 📎 Estou testando as facilidades de criação de um site, "roubatilhando" as dicas do aluno Guilherme França da Silva, que tem se mostrado altamente pró-ativo<br>
 </p>
 
-##
-    
 <br>
 
 <div align="center">
@@ -66,8 +64,6 @@ Tendo problemas com GitHub Pages? Confira nossa [documentation](https://docs.git
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmarcotti&layout=compact&langs_count=7&theme=radical&include_all_commits=true&count_private=true."/>
 </div>
     
-<br>
-
 <h4>Linguagens</h4>
 
 <div style="display: inline_block">
@@ -109,8 +105,6 @@ Tendo problemas com GitHub Pages? Confira nossa [documentation](https://docs.git
     <img align="center" alt="Gui-MongoDB" height="25" width="80" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   </a>
 </div>
-
-  ##
 
 <h4>Minhas Redes Sociais</h4>
 
