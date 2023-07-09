@@ -49,11 +49,11 @@ Tendo problemas com GitHub Pages? Confira nossa [documentation](https://docs.git
 
 [Blog Alpha EdTech - Davi Valukas] [[O que é Foresight: 5 Princípios Básicos](https://www.alphaedtech.org.br/post/o-que-%C3%A9-foresight?postId=95b42eab-2b99-4b33-aa0e-9b0092e899f4&utm_campaign=07d36ae0-7a9a-4681-903b-dc9e4193ad55&utm_source=so&utm_medium=mail&utm_content=9545cd9a-adde-4fab-a83f-e652af4aff32&cid=8ac4a1b5-ea59-4f86-b1b5-720a64bffe25)]
 
-Blog Alpha EdTech - Davi Valukas [[O que é Foresight: 5 Princípios Básicos](https://www.alphaedtech.org.br/post/o-que-%C3%A9-foresight?postId=95b42eab-2b99-4b33-aa0e-9b0092e899f4&utm_campaign=07d36ae0-7a9a-4681-903b-dc9e4193ad55&utm_source=so&utm_medium=mail&utm_content=9545cd9a-adde-4fab-a83f-e652af4aff32&cid=8ac4a1b5-ea59-4f86-b1b5-720a64bffe25)]
+Blog Alpha EdTech - Davi Valukas [O que é Foresight: 5 Princípios Básicos (https://www.alphaedtech.org.br/post/o-que-%C3%A9-foresight?postId=95b42eab-2b99-4b33-aa0e-9b0092e899f4&utm_campaign=07d36ae0-7a9a-4681-903b-dc9e4193ad55&utm_source=so&utm_medium=mail&utm_content=9545cd9a-adde-4fab-a83f-e652af4aff32&cid=8ac4a1b5-ea59-4f86-b1b5-720a64bffe25)]
 
 ![https://fabbofuturos.com.br/o-que-e-foresight-estrategico/](https://fabbofuturos.com.br/wp-content/uploads/2021/07/foresight-2-1024x487.png)
 
-![O-que-e-foresight-estrategico](https://fabbofuturos.com.br/wp-content/uploads/2021/07/foresight-2-1024x487.png)
+!O-que-e-foresight-estrategico(https://fabbofuturos.com.br/wp-content/uploads/2021/07/foresight-2-1024x487.png)
 
 ## Trecho copiado do aluno Guilherme França da Silva
 
