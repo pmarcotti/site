@@ -51,8 +51,6 @@ Tendo problemas com GitHub Pages? Confira nossa [documentation](https://docs.git
 
 ![https://fabbofuturos.com.br/o-que-e-foresight-estrategico/](https://fabbofuturos.com.br/wp-content/uploads/2021/07/foresight-2-1024x487.png)
 
-![https://fabbofuturos.com.br/o-que-e-foresight-estrategico/](https://fabbofuturos.com.br/wp-content/uploads/2021/07/foresight-2-1024x487.pg)
-
 ## Trecho copiado do aluno Guilherme França da Silva
 
 <h3>Olá!👋 Bem vindo ao perfil do Prof. Paulo Marcotti!</h3>
